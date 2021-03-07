@@ -1,0 +1,22 @@
+[
+  {
+    "id":1,
+    "name":"Jon Doe",
+    "age":30
+  },
+  {
+    "id":2,
+    "name":"Jan Smith",
+    "age":27
+  },
+  {
+    "id":3,
+    "name":"Mike Paulson",
+    "age":34
+  },
+  {
+    "id":4,
+    "name":"Sara Davis",
+    "age":25
+  }
+]
